@@ -26,7 +26,7 @@ like to make a soft link to my home root so it's easier to get to:
 ln -s "$HOME/Library/Mobile Documents/com~apple~CloudDocs" $HOME/iCloud
 ```
 
-
+```
 sudo apt update -y
 sudo apt upgrade -y
 cat /etc/locale.gen
@@ -51,3 +51,4 @@ ls
 git clone https://github.com/scottstanfield/dotfiles
 git clone https://github.com/scottstanfield/moabian
 sudo shutdown 0
+```
