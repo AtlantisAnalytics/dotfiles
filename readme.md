@@ -27,3 +27,27 @@ ln -s "$HOME/Library/Mobile Documents/com~apple~CloudDocs" $HOME/iCloud
 ```
 
 
+sudo apt update -y
+sudo apt upgrade -y
+cat /etc/locale.gen
+sudo vi /etc/locale.gen
+sudo locale-gen en_US.UTF-8
+sudo update-locale LANG=en_US.UTF-8
+sudo apt update -y
+sudo apt upgrade -y
+ls
+t
+sudo apt install git
+sudo apt install -y build-essential libssl-dev automake
+sudo apt install -y git zsh neovim pydf glances htop tree neofetch jq unzip httpie
+ip a show
+htop
+dmesg
+ip a show
+ping 1.1.1.1
+tmux
+sudo apt install tmux
+ls
+git clone https://github.com/scottstanfield/dotfiles
+git clone https://github.com/scottstanfield/moabian
+sudo shutdown 0
